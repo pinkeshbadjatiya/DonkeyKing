@@ -1,11 +1,11 @@
 
 # DonkeyKing  
-#################################################  
+---
 A comeback of the popular 2D game 'Donkey Kong' using pygame + python
 
 
 ## GAMEPLAY:
-#################################################
+---
 
 __(Slow to Load image)__  
 File size: 9.98M, width: 1300px, height: 658px, frames: 439, type: gif
@@ -22,7 +22,7 @@ File size: 9.98M, width: 1300px, height: 658px, frames: 439, type: gif
 
 
 ## Controls:
-#################################################  
+---
 > `q` =	Quit Game  
 `w`	=	Move Up(climb)  
 `a`	=	Move Left  
@@ -33,14 +33,14 @@ File size: 9.98M, width: 1300px, height: 658px, frames: 439, type: gif
 
 
 ## GOAL:
-################################################  
-The player has to avoid all the falling fireballs and avoid the **MONSTER**, and reach the cup.
-Once touching it, you would be promoted to next level. YEAH !!
+---
+The player has to avoid all the falling fireballs and avoid the **MONSTER**, and reach the cup.  
+Once touching it, you would be promoted to next level. YEAH !!  
 
 
 
 ## SCORING:
-################################################  
-There is a score of `5` for each coin, which gets added in the total score.
-There are a total of `3 lives`. Each death costs 1 life.
-There are a total of `3 levels as of now`. New levels can be added by just placing the file **levelX.py**, no need to alter the code.
+---
+- There is a score of `5` for each coin, which gets added in the total score.  
+- There are a total of `3 lives`. Each death costs 1 life.  
+- There are a total of `3 levels as of now`. New levels can be added by just placing the file **levelX.py**, no need to alter the code.  
