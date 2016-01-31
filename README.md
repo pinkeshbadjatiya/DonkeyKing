@@ -23,7 +23,7 @@ File size: 9.98M, width: 1300px, height: 658px, frames: 439, type: gif
 
 ## Controls:
 ---
-> `q` =	Quit Game  
+`q` =	Quit Game  
 `w`	=	Move Up(climb)  
 `a`	=	Move Left  
 `d`	=	Move right  
